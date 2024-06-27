@@ -12,13 +12,18 @@
 **🌻I'm slow person at studying, but definitely getting better**
 </div>
 <div align = "center">
-  
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oralce&logoColor=white">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oralce&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 </div>
 <h3 align = "center">🌟Gyuri's Github stats🌟</h3>
 <div align = "center">
