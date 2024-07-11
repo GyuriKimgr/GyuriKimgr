@@ -3,17 +3,17 @@
 </div>
 
 <div align="center">
-  <p><strong>💻 I'm majoring in Computer Engineering at Daegu University</strong></p>
-  <p><strong>🍒 I can code in C and I'm currently studying other languages and algorithms</strong></p>
-  <p><strong>🌻 I'm a slow learner, but I'm constantly improving</strong></p>
+  <p><strong>💻 I'm majoring in Computer Engineering at Daegu University 💻</strong></p>
+  <p><strong>🍒 I can code in C and I'm currently studying other languages and algorithms 🍒</strong></p>
+  <p><strong>🌻 I'm a slow learner, but I'm constantly improving 🌻</strong></p>
 </div>
 
 <div align="center">
   <hr>
   <p><strong>💜 Proficient 💜</strong></p>
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  
+   I need to focus more on learning and improve!😥
   <p><strong>🖤 Familiar 🖤</strong></p>
+   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
