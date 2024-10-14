@@ -30,7 +30,7 @@
 
 <h3 align="center">🌟 Gyuri's Github stats 🌟</h3>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GyuriKimgr&theme=rose&hide_border=true" alt="GitHub Streak"></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GyuriKimgr&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuriKimgr&layout=donut" alt="Top Langs"></a>
 </div>
 
